@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2009/deployment" AppPlatformVersion="7.1">
+  <App xmlns="" ProductID="{def41dba-78a9-48dc-aac5-d8dfb146c4b4}" Title="MyShopping" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal"  Author="MyShopping author" Description="Sample description" Publisher="MyShopping">
+    <IconPath IsRelative="true" IsResource="false">ApplicationIcon.png</IconPath>
+    <Capabilities>
+    
+      <Capability Name="ID_CAP_NETWORKING"/>
+    
+    </Capabilities>
+    <Tasks>
+      <DefaultTask  Name ="_default" NavigationPage="StartPage.xaml"/>
+    </Tasks>
+    <Tokens>
+      <PrimaryToken TokenID="MyShoppingToken" TaskName="_default">
+        <TemplateType5>
+          <BackgroundImageURI IsRelative="true" IsResource="false">Background.png</BackgroundImageURI>
+          <Count>0</Count>
+          <Title>MyShopping</Title>
+        </TemplateType5>
+      </PrimaryToken>
+    </Tokens>
+  </App>
+</Deployment>
+
+<!-- WPSDK Version 7.1.8773.0 -->

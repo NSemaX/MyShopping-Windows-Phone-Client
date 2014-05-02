@@ -1,0 +1,161 @@
+C:\Users\Nagihan Sema KD\Desktop\Kısayollar\MyShopping\MyShopping\Bin\Release\ApplicationIcon.png
+C:\Users\Nagihan Sema KD\Desktop\Kısayollar\MyShopping\MyShopping\Bin\Release\Background.png
+C:\Users\Nagihan Sema KD\Desktop\Kısayollar\MyShopping\MyShopping\Bin\Release\MyShopping.dll
+C:\Users\Nagihan Sema KD\Desktop\Kısayollar\MyShopping\MyShopping\Bin\Release\MyShopping.pdb
+C:\Users\Nagihan Sema KD\Desktop\Kısayollar\MyShopping\MyShopping\Bin\Release\AppManifest.xaml
+C:\Users\Nagihan Sema KD\Desktop\Kısayollar\MyShopping\MyShopping\Bin\Release\MyShopping.xap
+C:\Users\Nagihan Sema KD\Desktop\Kısayollar\MyShopping\MyShopping\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Nagihan Sema KD\Desktop\Kısayollar\MyShopping\MyShopping\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Nagihan Sema KD\Desktop\Kısayollar\MyShopping\MyShopping\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Nagihan Sema KD\Desktop\Kısayollar\MyShopping\MyShopping\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Nagihan Sema KD\Desktop\Kısayollar\MyShopping\MyShopping\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Nagihan Sema KD\Desktop\Kısayollar\MyShopping\MyShopping\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Nagihan Sema KD\Desktop\Kısayollar\MyShopping\MyShopping\obj\Release\App.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\Kısayollar\MyShopping\MyShopping\obj\Release\AddStorePage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\Kısayollar\MyShopping\MyShopping\obj\Release\ChanceProductPage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\Kısayollar\MyShopping\MyShopping\obj\Release\NewProductPage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\Kısayollar\MyShopping\MyShopping\obj\Release\OrderPage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\Kısayollar\MyShopping\MyShopping\obj\Release\PanoramaPages.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\Kısayollar\MyShopping\MyShopping\obj\Release\MainPage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\Kısayollar\MyShopping\MyShopping\obj\Release\NewListPage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\Kısayollar\MyShopping\MyShopping\obj\Release\PanoramaLists.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\Kısayollar\MyShopping\MyShopping\obj\Release\ProductShowPages.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\Kısayollar\MyShopping\MyShopping\obj\Release\StartPage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\Kısayollar\MyShopping\MyShopping\obj\Release\StorePage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\Kısayollar\MyShopping\MyShopping\obj\Release\MyShopping.g.resources
+C:\Users\Nagihan Sema KD\Desktop\Kısayollar\MyShopping\MyShopping\obj\Release\MyShopping.dll
+C:\Users\Nagihan Sema KD\Desktop\Kısayollar\MyShopping\MyShopping\obj\Release\MyShopping.pdb
+C:\Users\Nagihan Sema KD\Desktop\Kısayollar\MyShopping\MyShopping\obj\Release\XapCacheFile.xml
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\Bin\Release\ApplicationIcon.png
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\Bin\Release\Background.png
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\Bin\Release\MyShopping.dll
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\Bin\Release\MyShopping.pdb
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\Bin\Release\AppManifest.xaml
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\Bin\Release\MyShopping.xap
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Release\App.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Release\AddStorePage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Release\ChanceProductPage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Release\NewProductPage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Release\OrderPage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Release\PanoramaPages.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Release\MainPage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Release\NewListPage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Release\PanoramaLists.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Release\ProductShowPages.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Release\StartPage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Release\StorePage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Release\MyShopping.g.resources
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Release\MyShopping.dll
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Release\MyShopping.pdb
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Release\XapCacheFile.xml
+C:\Users\Nagihan Sema KD\Desktop\Yeni klasör\MyShopping\MyShopping\Bin\Release\ApplicationIcon.png
+C:\Users\Nagihan Sema KD\Desktop\Yeni klasör\MyShopping\MyShopping\Bin\Release\Background.png
+C:\Users\Nagihan Sema KD\Desktop\Yeni klasör\MyShopping\MyShopping\Bin\Release\MyShopping.dll
+C:\Users\Nagihan Sema KD\Desktop\Yeni klasör\MyShopping\MyShopping\Bin\Release\MyShopping.pdb
+C:\Users\Nagihan Sema KD\Desktop\Yeni klasör\MyShopping\MyShopping\Bin\Release\AppManifest.xaml
+C:\Users\Nagihan Sema KD\Desktop\Yeni klasör\MyShopping\MyShopping\Bin\Release\MyShopping.xap
+C:\Users\Nagihan Sema KD\Desktop\Yeni klasör\MyShopping\MyShopping\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Nagihan Sema KD\Desktop\Yeni klasör\MyShopping\MyShopping\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Nagihan Sema KD\Desktop\Yeni klasör\MyShopping\MyShopping\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Nagihan Sema KD\Desktop\Yeni klasör\MyShopping\MyShopping\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Nagihan Sema KD\Desktop\Yeni klasör\MyShopping\MyShopping\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Nagihan Sema KD\Desktop\Yeni klasör\MyShopping\MyShopping\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Nagihan Sema KD\Desktop\Yeni klasör\MyShopping\MyShopping\obj\Release\App.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\Yeni klasör\MyShopping\MyShopping\obj\Release\AddStorePage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\Yeni klasör\MyShopping\MyShopping\obj\Release\ChanceProductPage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\Yeni klasör\MyShopping\MyShopping\obj\Release\NewProductPage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\Yeni klasör\MyShopping\MyShopping\obj\Release\OrderPage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\Yeni klasör\MyShopping\MyShopping\obj\Release\PanoramaPages.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\Yeni klasör\MyShopping\MyShopping\obj\Release\MainPage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\Yeni klasör\MyShopping\MyShopping\obj\Release\NewListPage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\Yeni klasör\MyShopping\MyShopping\obj\Release\PanoramaLists.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\Yeni klasör\MyShopping\MyShopping\obj\Release\ProductShowPages.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\Yeni klasör\MyShopping\MyShopping\obj\Release\StartPage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\Yeni klasör\MyShopping\MyShopping\obj\Release\StorePage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\Yeni klasör\MyShopping\MyShopping\obj\Release\MyShopping.g.resources
+C:\Users\Nagihan Sema KD\Desktop\Yeni klasör\MyShopping\MyShopping\obj\Release\MyShopping.dll
+C:\Users\Nagihan Sema KD\Desktop\Yeni klasör\MyShopping\MyShopping\obj\Release\MyShopping.pdb
+C:\Users\Nagihan Sema KD\Desktop\Yeni klasör\MyShopping\MyShopping\obj\Release\XapCacheFile.xml
+C:\Users\Nagihan Sema KD\Documents\Phone 7 Uygulamalarım\MyShopping Materials\MyShopping\MyShopping\Bin\Release\ApplicationIcon.png
+C:\Users\Nagihan Sema KD\Documents\Phone 7 Uygulamalarım\MyShopping Materials\MyShopping\MyShopping\Bin\Release\Background.png
+C:\Users\Nagihan Sema KD\Documents\Phone 7 Uygulamalarım\MyShopping Materials\MyShopping\MyShopping\Bin\Release\MyShopping.dll
+C:\Users\Nagihan Sema KD\Documents\Phone 7 Uygulamalarım\MyShopping Materials\MyShopping\MyShopping\Bin\Release\MyShopping.pdb
+C:\Users\Nagihan Sema KD\Documents\Phone 7 Uygulamalarım\MyShopping Materials\MyShopping\MyShopping\Bin\Release\AppManifest.xaml
+C:\Users\Nagihan Sema KD\Documents\Phone 7 Uygulamalarım\MyShopping Materials\MyShopping\MyShopping\Bin\Release\MyShopping.xap
+C:\Users\Nagihan Sema KD\Documents\Phone 7 Uygulamalarım\MyShopping Materials\MyShopping\MyShopping\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Nagihan Sema KD\Documents\Phone 7 Uygulamalarım\MyShopping Materials\MyShopping\MyShopping\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Nagihan Sema KD\Documents\Phone 7 Uygulamalarım\MyShopping Materials\MyShopping\MyShopping\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Nagihan Sema KD\Documents\Phone 7 Uygulamalarım\MyShopping Materials\MyShopping\MyShopping\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Nagihan Sema KD\Documents\Phone 7 Uygulamalarım\MyShopping Materials\MyShopping\MyShopping\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Nagihan Sema KD\Documents\Phone 7 Uygulamalarım\MyShopping Materials\MyShopping\MyShopping\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Nagihan Sema KD\Documents\Phone 7 Uygulamalarım\MyShopping Materials\MyShopping\MyShopping\obj\Release\App.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\Phone 7 Uygulamalarım\MyShopping Materials\MyShopping\MyShopping\obj\Release\AddStorePage.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\Phone 7 Uygulamalarım\MyShopping Materials\MyShopping\MyShopping\obj\Release\ChanceProductPage.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\Phone 7 Uygulamalarım\MyShopping Materials\MyShopping\MyShopping\obj\Release\NewProductPage.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\Phone 7 Uygulamalarım\MyShopping Materials\MyShopping\MyShopping\obj\Release\OrderPage.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\Phone 7 Uygulamalarım\MyShopping Materials\MyShopping\MyShopping\obj\Release\PanoramaPages.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\Phone 7 Uygulamalarım\MyShopping Materials\MyShopping\MyShopping\obj\Release\MainPage.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\Phone 7 Uygulamalarım\MyShopping Materials\MyShopping\MyShopping\obj\Release\NewListPage.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\Phone 7 Uygulamalarım\MyShopping Materials\MyShopping\MyShopping\obj\Release\PanoramaLists.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\Phone 7 Uygulamalarım\MyShopping Materials\MyShopping\MyShopping\obj\Release\ProductShowPages.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\Phone 7 Uygulamalarım\MyShopping Materials\MyShopping\MyShopping\obj\Release\StartPage.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\Phone 7 Uygulamalarım\MyShopping Materials\MyShopping\MyShopping\obj\Release\StorePage.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\Phone 7 Uygulamalarım\MyShopping Materials\MyShopping\MyShopping\obj\Release\MyShopping.g.resources
+C:\Users\Nagihan Sema KD\Documents\Phone 7 Uygulamalarım\MyShopping Materials\MyShopping\MyShopping\obj\Release\MyShopping.dll
+C:\Users\Nagihan Sema KD\Documents\Phone 7 Uygulamalarım\MyShopping Materials\MyShopping\MyShopping\obj\Release\MyShopping.pdb
+C:\Users\Nagihan Sema KD\Documents\Phone 7 Uygulamalarım\MyShopping Materials\MyShopping\MyShopping\obj\Release\XapCacheFile.xml
+C:\Users\Sema\Desktop\MyShopping\MyShopping\Bin\Release\ApplicationIcon.png
+C:\Users\Sema\Desktop\MyShopping\MyShopping\Bin\Release\Background.png
+C:\Users\Sema\Desktop\MyShopping\MyShopping\Bin\Release\MyShopping.dll
+C:\Users\Sema\Desktop\MyShopping\MyShopping\Bin\Release\MyShopping.pdb
+C:\Users\Sema\Desktop\MyShopping\MyShopping\Bin\Release\AppManifest.xaml
+C:\Users\Sema\Desktop\MyShopping\MyShopping\Bin\Release\MyShopping.xap
+C:\Users\Sema\Desktop\MyShopping\MyShopping\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Sema\Desktop\MyShopping\MyShopping\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Sema\Desktop\MyShopping\MyShopping\obj\Release\App.g.cs
+C:\Users\Sema\Desktop\MyShopping\MyShopping\obj\Release\AddStorePage.g.cs
+C:\Users\Sema\Desktop\MyShopping\MyShopping\obj\Release\ChanceProductPage.g.cs
+C:\Users\Sema\Desktop\MyShopping\MyShopping\obj\Release\NewProductPage.g.cs
+C:\Users\Sema\Desktop\MyShopping\MyShopping\obj\Release\OrderPage.g.cs
+C:\Users\Sema\Desktop\MyShopping\MyShopping\obj\Release\PanoramaPages.g.cs
+C:\Users\Sema\Desktop\MyShopping\MyShopping\obj\Release\MainPage.g.cs
+C:\Users\Sema\Desktop\MyShopping\MyShopping\obj\Release\NewListPage.g.cs
+C:\Users\Sema\Desktop\MyShopping\MyShopping\obj\Release\PanoramaLists.g.cs
+C:\Users\Sema\Desktop\MyShopping\MyShopping\obj\Release\ProductShowPages.g.cs
+C:\Users\Sema\Desktop\MyShopping\MyShopping\obj\Release\StartPage.g.cs
+C:\Users\Sema\Desktop\MyShopping\MyShopping\obj\Release\StorePage.g.cs
+C:\Users\Sema\Desktop\MyShopping\MyShopping\obj\Release\MyShopping.g.resources
+C:\Users\Sema\Desktop\MyShopping\MyShopping\obj\Release\MyShopping.dll
+C:\Users\Sema\Desktop\MyShopping\MyShopping\obj\Release\MyShopping.pdb
+C:\Users\Sema\Desktop\MyShopping\MyShopping\obj\Release\XapCacheFile.xml
+C:\Users\semak\Documents\MyShopping\MyShopping\Bin\Release\ApplicationIcon.png
+C:\Users\semak\Documents\MyShopping\MyShopping\Bin\Release\Background.png
+C:\Users\semak\Documents\MyShopping\MyShopping\Bin\Release\MyShopping.dll
+C:\Users\semak\Documents\MyShopping\MyShopping\Bin\Release\MyShopping.pdb
+C:\Users\semak\Documents\MyShopping\MyShopping\Bin\Release\AppManifest.xaml
+C:\Users\semak\Documents\MyShopping\MyShopping\Bin\Release\MyShopping.xap
+C:\Users\semak\Documents\MyShopping\MyShopping\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\semak\Documents\MyShopping\MyShopping\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\semak\Documents\MyShopping\MyShopping\obj\Release\MyShopping.csprojResolveAssemblyReference.cache
+C:\Users\semak\Documents\MyShopping\MyShopping\obj\Release\App.g.cs
+C:\Users\semak\Documents\MyShopping\MyShopping\obj\Release\AddStorePage.g.cs
+C:\Users\semak\Documents\MyShopping\MyShopping\obj\Release\ChanceProductPage.g.cs
+C:\Users\semak\Documents\MyShopping\MyShopping\obj\Release\NewProductPage.g.cs
+C:\Users\semak\Documents\MyShopping\MyShopping\obj\Release\OrderPage.g.cs
+C:\Users\semak\Documents\MyShopping\MyShopping\obj\Release\PanoramaPages.g.cs
+C:\Users\semak\Documents\MyShopping\MyShopping\obj\Release\MainPage.g.cs
+C:\Users\semak\Documents\MyShopping\MyShopping\obj\Release\NewListPage.g.cs
+C:\Users\semak\Documents\MyShopping\MyShopping\obj\Release\PanoramaLists.g.cs
+C:\Users\semak\Documents\MyShopping\MyShopping\obj\Release\ProductShowPages.g.cs
+C:\Users\semak\Documents\MyShopping\MyShopping\obj\Release\StartPage.g.cs
+C:\Users\semak\Documents\MyShopping\MyShopping\obj\Release\StorePage.g.cs
+C:\Users\semak\Documents\MyShopping\MyShopping\obj\Release\MyShopping.g.resources
+C:\Users\semak\Documents\MyShopping\MyShopping\obj\Release\MyShopping.dll
+C:\Users\semak\Documents\MyShopping\MyShopping\obj\Release\MyShopping.pdb
+C:\Users\semak\Documents\MyShopping\MyShopping\obj\Release\XapCacheFile.xml

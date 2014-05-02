@@ -1,0 +1,84 @@
+c:\users\nagihan sema kd\documents\visual studio 2010\Projects\MyShopping\MyShopping\obj\Debug\ResolveAssemblyReference.cache
+c:\users\nagihan sema kd\documents\visual studio 2010\Projects\MyShopping\MyShopping\obj\Debug\App.g.i.cs
+c:\users\nagihan sema kd\documents\visual studio 2010\Projects\MyShopping\MyShopping\obj\Debug\MainPage.g.i.cs
+c:\users\nagihan sema kd\documents\visual studio 2010\Projects\MyShopping\MyShopping\obj\Debug\MyShopping.g.resources
+c:\users\nagihan sema kd\documents\visual studio 2010\Projects\MyShopping\MyShopping\Bin\Debug\ApplicationIcon.png
+c:\users\nagihan sema kd\documents\visual studio 2010\Projects\MyShopping\MyShopping\Bin\Debug\Background.png
+c:\users\nagihan sema kd\documents\visual studio 2010\Projects\MyShopping\MyShopping\Bin\Debug\MyShopping.dll
+c:\users\nagihan sema kd\documents\visual studio 2010\Projects\MyShopping\MyShopping\Bin\Debug\MyShopping.pdb
+c:\users\nagihan sema kd\documents\visual studio 2010\Projects\MyShopping\MyShopping\obj\Debug\MyShopping.dll
+c:\users\nagihan sema kd\documents\visual studio 2010\Projects\MyShopping\MyShopping\obj\Debug\MyShopping.pdb
+c:\users\nagihan sema kd\documents\visual studio 2010\Projects\MyShopping\MyShopping\Bin\Debug\AppManifest.xaml
+c:\users\nagihan sema kd\documents\visual studio 2010\Projects\MyShopping\MyShopping\Bin\Debug\MyShopping.xap
+c:\users\nagihan sema kd\documents\visual studio 2010\Projects\MyShopping\MyShopping\obj\Debug\XapCacheFile.xml
+C:\Users\Nagihan Sema KD\documents\visual studio 2010\Projects\MyShopping\MyShopping\obj\Debug\NewListPage.g.i.cs
+C:\Users\Nagihan Sema KD\documents\visual studio 2010\Projects\MyShopping\MyShopping\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Nagihan Sema KD\documents\visual studio 2010\Projects\MyShopping\MyShopping\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Nagihan Sema KD\documents\visual studio 2010\Projects\MyShopping\MyShopping\obj\Debug\PanoramaLists.g.i.cs
+C:\Users\Nagihan Sema KD\documents\visual studio 2010\Projects\MyShopping\MyShopping\obj\Debug\PanoramaPages.g.i.cs
+C:\Users\Nagihan Sema KD\documents\visual studio 2010\Projects\MyShopping\MyShopping\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Nagihan Sema KD\documents\visual studio 2010\Projects\MyShopping\MyShopping\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Nagihan Sema KD\documents\visual studio 2010\Projects\MyShopping\MyShopping\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Nagihan Sema KD\documents\visual studio 2010\Projects\MyShopping\MyShopping\obj\Debug\NewProductPage.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\Visual Studio 2010\Projects\MyShopping\MyShopping\obj\Debug\StartPage.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\Visual Studio 2010\Projects\MyShopping\MyShopping\obj\Debug\OrderPage.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\Visual Studio 2010\Projects\MyShopping\MyShopping\obj\Debug\AddStorePage.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\Visual Studio 2010\Projects\MyShopping\MyShopping\obj\Debug\StorePage.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\Visual Studio 2010\Projects\MyShopping\MyShopping\obj\Debug\ChanceProductPage.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\Visual Studio 2010\Projects\MyShopping\MyShopping\obj\Debug\ProductShowPages.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\Bin\Debug\ApplicationIcon.png
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\Bin\Debug\Background.png
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\Bin\Debug\MyShopping.dll
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\Bin\Debug\MyShopping.pdb
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\Bin\Debug\AppManifest.xaml
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\Bin\Debug\MyShopping.xap
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Debug\App.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Debug\AddStorePage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Debug\ChanceProductPage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Debug\NewProductPage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Debug\OrderPage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Debug\PanoramaPages.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Debug\MainPage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Debug\NewListPage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Debug\PanoramaLists.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Debug\ProductShowPages.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Debug\StartPage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Debug\StorePage.g.i.cs
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Debug\MyShopping.g.resources
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Debug\MyShopping.dll
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Debug\MyShopping.pdb
+C:\Users\Nagihan Sema KD\Desktop\MyShopping\MyShopping\obj\Debug\XapCacheFile.xml
+C:\Users\Nagihan Sema KD\Documents\MICROSOFT-Ankara Yaz Okulu\MyShopping\MyShopping\Bin\Debug\ApplicationIcon.png
+C:\Users\Nagihan Sema KD\Documents\MICROSOFT-Ankara Yaz Okulu\MyShopping\MyShopping\Bin\Debug\Background.png
+C:\Users\Nagihan Sema KD\Documents\MICROSOFT-Ankara Yaz Okulu\MyShopping\MyShopping\Bin\Debug\MyShopping.dll
+C:\Users\Nagihan Sema KD\Documents\MICROSOFT-Ankara Yaz Okulu\MyShopping\MyShopping\Bin\Debug\MyShopping.pdb
+C:\Users\Nagihan Sema KD\Documents\MICROSOFT-Ankara Yaz Okulu\MyShopping\MyShopping\Bin\Debug\AppManifest.xaml
+C:\Users\Nagihan Sema KD\Documents\MICROSOFT-Ankara Yaz Okulu\MyShopping\MyShopping\Bin\Debug\MyShopping.xap
+C:\Users\Nagihan Sema KD\Documents\MICROSOFT-Ankara Yaz Okulu\MyShopping\MyShopping\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Nagihan Sema KD\Documents\MICROSOFT-Ankara Yaz Okulu\MyShopping\MyShopping\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Nagihan Sema KD\Documents\MICROSOFT-Ankara Yaz Okulu\MyShopping\MyShopping\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Nagihan Sema KD\Documents\MICROSOFT-Ankara Yaz Okulu\MyShopping\MyShopping\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Nagihan Sema KD\Documents\MICROSOFT-Ankara Yaz Okulu\MyShopping\MyShopping\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Nagihan Sema KD\Documents\MICROSOFT-Ankara Yaz Okulu\MyShopping\MyShopping\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nagihan Sema KD\Documents\MICROSOFT-Ankara Yaz Okulu\MyShopping\MyShopping\obj\Debug\App.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\MICROSOFT-Ankara Yaz Okulu\MyShopping\MyShopping\obj\Debug\AddStorePage.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\MICROSOFT-Ankara Yaz Okulu\MyShopping\MyShopping\obj\Debug\ChanceProductPage.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\MICROSOFT-Ankara Yaz Okulu\MyShopping\MyShopping\obj\Debug\NewProductPage.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\MICROSOFT-Ankara Yaz Okulu\MyShopping\MyShopping\obj\Debug\OrderPage.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\MICROSOFT-Ankara Yaz Okulu\MyShopping\MyShopping\obj\Debug\PanoramaPages.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\MICROSOFT-Ankara Yaz Okulu\MyShopping\MyShopping\obj\Debug\MainPage.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\MICROSOFT-Ankara Yaz Okulu\MyShopping\MyShopping\obj\Debug\NewListPage.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\MICROSOFT-Ankara Yaz Okulu\MyShopping\MyShopping\obj\Debug\PanoramaLists.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\MICROSOFT-Ankara Yaz Okulu\MyShopping\MyShopping\obj\Debug\ProductShowPages.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\MICROSOFT-Ankara Yaz Okulu\MyShopping\MyShopping\obj\Debug\StartPage.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\MICROSOFT-Ankara Yaz Okulu\MyShopping\MyShopping\obj\Debug\StorePage.g.i.cs
+C:\Users\Nagihan Sema KD\Documents\MICROSOFT-Ankara Yaz Okulu\MyShopping\MyShopping\obj\Debug\MyShopping.g.resources
+C:\Users\Nagihan Sema KD\Documents\MICROSOFT-Ankara Yaz Okulu\MyShopping\MyShopping\obj\Debug\MyShopping.dll
+C:\Users\Nagihan Sema KD\Documents\MICROSOFT-Ankara Yaz Okulu\MyShopping\MyShopping\obj\Debug\MyShopping.pdb
+C:\Users\Nagihan Sema KD\Documents\MICROSOFT-Ankara Yaz Okulu\MyShopping\MyShopping\obj\Debug\XapCacheFile.xml
